@@ -1,2 +1,2 @@
 Directory readme
-updating realme
+update readme
